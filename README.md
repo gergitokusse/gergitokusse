@@ -13,7 +13,7 @@
 
 <h4>Hello, I am Gergito Kusse, a full stack Developer from Everywhere. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
-[![Github](https://img.shields.io/github/followers/habasm?label=Follow&style=social)](https://github.com/habasm)
+[![Github](https://img.shields.io/github/followers/gergitokusse?label=Follow&style=social)](https://github.com/gergitokusse)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
 <p align="center"><a href="./code.gif">
