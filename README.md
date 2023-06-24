@@ -39,19 +39,16 @@
 <img src='./' width="100px">
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/gergitokusse/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Habasm" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/habasm?hr_r=1" target="blank"><img align="center"
+    <a href="https://www.hackerrank.com/https://www.hackerrank.com/gergito2?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="habasm" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/habasm/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="habasm" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/habasm" target="blank"><img align="center"
+  <a href="https://www.facebook.com/gergitokusse" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="habasm" height="30" width="40" /></a>
- <a href="https://twitter.com/habasm" target="blank"><img align="center"
+ <a href="https://twitter.com/gergitokusse" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="habasm" height="30" width="40" /></a>
 </p>
@@ -107,19 +104,3 @@
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
-
-
-<!--
-**gergitokusse/gergitokusse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
