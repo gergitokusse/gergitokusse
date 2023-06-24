@@ -26,17 +26,17 @@
 - 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
 - 🤔 I’m looking for help with **finding a great job**.
 - 💬 Ask me about **Anything you want**.
-- 📫 How to reach me: <a href="mailto:habasm@gmail.com">Send an Email</a>.
-- 💻 All **my projects** are available [here](https://github.com/habasm?tab=repositories).
+- 📫 How to reach me: <a href="mailto:gergito2@gmail.com">Send an Email</a>.
+- 💻 All **my projects** are available [here](https://github.com/gergitokusse?tab=repositories).
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 
 <h4 align="center">Visitor count</h4>   
-<p align="center"><img src="https://profile-counter.glitch.me/habasm/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/gergitokusse/count.svg" /></p>
 <p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
 
 <h3 align="center">Connect with me:
-<img src='./handshake.gif' width="100px">
+<img src='./' width="100px">
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/habitamu-asimare-aa824b169/" target="blank"><img align="center"
@@ -63,13 +63,10 @@
 <p align="left">
 <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#" target="blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
-&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"></a>
 </p>
 
